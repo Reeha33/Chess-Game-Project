@@ -3,13 +3,17 @@ Overview
 This is a simple chess game implemented in C++. The game allows two players to play against each other on the same machine. The game features a text-based interface where the chessboard is displayed using ASCII characters. Players can move their pieces according to the standard rules of chess.
 
 Features
-Text-based Interface: The game uses a console-based interface to display the chessboard and handle player input.
+Text-based Interface: 
+The game uses a console-based interface to display the chessboard and handle player input.
 
-Standard Chess Rules: The game follows the standard rules of chess, including special moves like pawn promotion.
+Standard Chess Rules: 
+The game follows the standard rules of chess, including special moves like pawn promotion.
 
-Save and Load Game: Players can save their current game state and load it later to continue playing.
+Save and Load Game: 
+Players can save their current game state and load it later to continue playing.
 
-Turn-based Gameplay: The game alternates turns between two players, one controlling the white pieces and the other controlling the black pieces.
+Turn-based Gameplay: 
+The game alternates turns between two players, one controlling the white pieces and the other controlling the black pieces.
 
 How to Play
 Starting the Game:
